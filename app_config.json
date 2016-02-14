@@ -1,0 +1,5 @@
+{ 
+  "AWS_REGION": "us-west-2",
+  "STARTUP_SIGNUP_TABLE": "WebScraper_Data_Table",
+  "NEW_SIGNUP_TOPIC": "arn:aws:sns:us-west-2:277676661381:WebScraper_Update_Notification"
+}
